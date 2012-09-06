@@ -1,4 +1,3 @@
-ucl-demos
+UCL demos
 =========
 
-UCL demos
